@@ -4,13 +4,6 @@ angular-round-progress
 
 ## Quick start
 
-+ Install round-progress-bar with [Bower](https://github.com/bower/bower).
-
->
-```bash
-$ bower install angular-round-progress --save
-```
-
 + Add these libraries to your page:
 
 >
