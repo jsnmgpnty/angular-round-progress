@@ -1,0 +1,12 @@
+canvas {
+    display: inline-block;
+}
+
+input {
+    width: 200px;
+}
+
+body {
+	text-align: center;
+	margin: 0 auto;
+}

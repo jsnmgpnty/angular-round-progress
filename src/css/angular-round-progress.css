@@ -1,0 +1,26 @@
+/* round progress bar css */
+
+.round-progress-container {
+	position: relative;
+}
+
+.center-absolute {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 50%;
+	height: 55%;
+	overflow: hidden;
+	margin: auto;
+}
+
+.progress-display {
+	font-family: 'Impact';
+}
+
+.progress-display label {
+	display: block;
+	font-weight: 400;
+}
