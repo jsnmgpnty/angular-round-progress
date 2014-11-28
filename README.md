@@ -2,16 +2,23 @@ angular-round-progress
 ======================
 - A round progress bar using Angular JS
 
++ Install round-progress-bar with [Bower](https://github.com/bower/bower).		
+		
+>		
+```bash		
+$ bower install angular-round-progress --save		
+```		
+
 ## Quick start
 
 + Add these libraries to your page:
 
 >
 ``` html
-<link href="angular-round-progress/dist/angular-round-progress.min.css" rel="stylesheet"></link>
+<link href="bower_components/angular-round-progress/dist/angular-round-progress.min.css" rel="stylesheet"></link>
 ...
-<script src="angular/angular.js"></script>
-<script src="angular-round-progress/dist/angular-round-progress.min.js"></script>
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-round-progress/dist/angular-round-progress.min.js"></script>
 ```
 
 + Inject the `angularRoundProgressBar` module into your app:
