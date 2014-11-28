@@ -2,7 +2,7 @@ angular-round-progress
 ======================
 - A round progress bar using Angular JS
 
-+ Install round-progress-bar with [Bower](https://github.com/bower/bower).		
++ Install angular-round-progress with [Bower](https://github.com/bower/bower).		
 		
 >		
 ```bash		
