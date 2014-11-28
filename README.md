@@ -8,10 +8,10 @@ angular-round-progress
 
 >
 ``` html
-<link href="bower_components/angular-round-progress/dist/angular-round-progress.min.css" rel="stylesheet"></link>
+<link href="angular-round-progress/dist/angular-round-progress.min.css" rel="stylesheet"></link>
 ...
-<script src="bower_components/angular/angular.js"></script>
-<script src="bower_components/angular-round-progress/dist/angular-round-progress.min.js"></script>
+<script src="angular/angular.js"></script>
+<script src="angular-round-progress/dist/angular-round-progress.min.js"></script>
 ```
 
 + Inject the `angularRoundProgressBar` module into your app:
