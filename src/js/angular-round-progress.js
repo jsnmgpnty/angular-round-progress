@@ -87,7 +87,7 @@ angularRoundProgressBar.directive('roundProgressBar', ["$interval", "$timeout", 
 				});
 				$(el).find('span').css({
 					'font-size': ((arcSize - 50) / 3) + 'px',
-					'margin-top': (arcSize - 50) + 'px'
+					'margin-top': ((arcSize - 50) + 5) + 'px'
 				});
 			};
 			
