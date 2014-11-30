@@ -1,8 +1,10 @@
 {
   "name": "round-progress-bar",
   "version": "0.0.2",
+  "name": "angular-round-progress",
+  "version": "0.0.2",
   "authors": [
-    "Jason Magpantay <jsnmgpnty@gmail.com>"
+    "Jason Magpantay"
   ],
   "description": "Round progress bar..nuff said!",
   "main": [
